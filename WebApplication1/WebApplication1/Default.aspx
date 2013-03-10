@@ -1,5 +1,5 @@
-﻿<%@ Page Title="Home Page" Language="VB" MasterPageFile="~/Site.Master" AutoEventWireup="false"
-    CodeFile="Default.aspx.vb" Inherits="_Default" %>
+﻿<%@ Page Title="Home Page" Language="vb" MasterPageFile="~/Site.Master" AutoEventWireup="false"
+    CodeBehind="Default.aspx.vb" Inherits="WebApplication1._Default" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>

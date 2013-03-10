@@ -1,5 +1,5 @@
-﻿<%@ Page Title="Log In" Language="VB" MasterPageFile="~/Site.Master" AutoEventWireup="false"
-    CodeFile="Login.aspx.vb" Inherits="Account_Login" %>
+﻿<%@ Page Title="Log In" Language="vb" MasterPageFile="~/Site.Master" AutoEventWireup="false"
+    CodeBehind="Login.aspx.vb" Inherits="WebApplication1.Login" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>

@@ -1,5 +1,5 @@
-﻿<%@ Page Title="Register" Language="VB" MasterPageFile="~/Site.Master" AutoEventWireup="false"
-    CodeFile="Register.aspx.vb" Inherits="Account_Register" %>
+﻿<%@ Page Title="Register" Language="vb" MasterPageFile="~/Site.Master" AutoEventWireup="false"
+    CodeBehind="Register.aspx.vb" Inherits="WebApplication1.Register" %>
 
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>
